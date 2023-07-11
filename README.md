@@ -131,7 +131,7 @@ Environments:
 - Coffee Break
 - Demo Environments Walkthrough
 - Lunch
-- Team Breakouts (Build your CJA Demo Pitch)
+- Team Breakouts (Build your own CJA Pitch)
 - Team Presentations
 - Feedback and Next Steps
 
@@ -143,6 +143,5 @@ Environments:
 
 ## Feedback Form
 
-We will be more than happy to hear about your experience today. 
-Any suggestions how to imporve this series are highly valuable to us. [https://forms.office.com/r/gdGSk9WV8c](https://forms.office.com/r/gdGSk9WV8c) 
+We will be more than happy to hear about your experience today. Any suggestions how to improve this programme are highly valuable to us: [https://forms.microsoft.com/r/UAuqAL7iKr](https://forms.microsoft.com/r/UAuqAL7iKr)
 
